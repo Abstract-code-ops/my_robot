@@ -1,7 +1,9 @@
 /home/sicheen/robot_ws/install/my_bot/share/my_bot/config/bot.rviz
+/home/sicheen/robot_ws/install/my_bot/share/my_bot/config/drive_bot.rviz
 /home/sicheen/robot_ws/install/my_bot/share/my_bot/config/empty.yaml
 /home/sicheen/robot_ws/install/my_bot/share/my_bot/description/gazebo_control.xacro
 /home/sicheen/robot_ws/install/my_bot/share/my_bot/description/inertial_macros.xacro
+/home/sicheen/robot_ws/install/my_bot/share/my_bot/description/lidar.xacro
 /home/sicheen/robot_ws/install/my_bot/share/my_bot/description/robot.urdf.xacro
 /home/sicheen/robot_ws/install/my_bot/share/my_bot/description/robot_core.xacro
 /home/sicheen/robot_ws/install/my_bot/share/my_bot/launch/launch_sim.launch.py

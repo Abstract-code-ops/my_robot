@@ -1,1 +1,1 @@
-/home/sicheen/ros2_ws/install/robot_controller:/opt/ros/humble
+/home/sicheen/robot_ws/install/my_bot:/home/sicheen/ros2_ws/install/robot_controller:/opt/ros/humble
